@@ -1,14 +1,23 @@
-# Api-Mooz-cart-o
-ESTE CÓDIGO FUNCIONA PARA EXTRAIR INFORMAÇÕES DE VENDAS E RECEITAS DO SOFTWARE MOOZ CARTÕES
+# API-Mooz-Cartões
 
-# O PRRIMEIRO PASSO PARA RODAR ESSE CÓDIGO É REALIZAR AS VERIFICACOES DE DATAS SE VAI DE ACORDO COM O PLANEJAMENTO, NO MEU CASO, EU COLOCO SEMPRE D-1.
-# TEM 5 ARQUIVOS QUE SÃO CRIADOS PARA DEPOIS AGRUPAR TUDO NO MAIN, SENDO ELES: Extrair_pagamentos.py, Extrair_vendas.py, Main_practico.py, Portal_EEXTRATO.py E Lojas_varejo.py
+Este código extrai informações de vendas e receitas do software Mooz Cartões.
 
-O CÓDIGO ELE RODA NO MAIN, POIS COLOQUEI TODOS OS OUTROS COMO FUNÇÃO 
+## Índice
+1. [Este código extrai informações de vendas e receitas do software Mooz Cartões.](#descrição)
+2. [Python3.11](#instalação)
+3. [Uso](#uso)
+4.  (#arquivos)
+5. [Extrair_pagamentos], [Extrarir_vendas], [Lojas_varejo], [Portal_EExtrato], [Main_practico],[Main]
+6. [Este projeto foi desenvolvido para automatizar a extração de informações de vendas e receitas do Mooz Cartões, facilitando o processo de conciliação de recebimentos.](#objetivo)
+7. [andrey.cunha@grupoginseng.com.br](#contato)
 
-O Extrair_pagamentos = EXTRAI OS PAGAMENTOS DO DIA 
-O Extrair_vendas = EXTRAI AS VENDAS DO DIA 
-O Main_practico= EXTRAI AS RECEITAS DO PRACTICO 
-O MAIN= AGRUPO TUDO E FAZ A SEGUINTE SOLUÇÃO 
+## Descrição
 
-# O OBJETIVO É RECOLHER AS INFORMAÇÕES DE CADA LUGAR PARA QUE NO PORTAL EXXTRATO ELE FAÇA O UPLOADO DESSAS INFORMAÇÕES, ONDE O USUÁRIO SOMENTE VÁ ATÉ O PORTAL PARA REALIZAR A CONCILIAÇÃO DOS RECEBIMENTOS.
+Este projeto foi desenvolvido para automatizar a extração de informações de vendas e receitas do Mooz Cartões, facilitando o processo de conciliação de recebimentos.
+
+## Instalação
+
+1. Certifique-se de ter o Python instalado na sua máquina.
+2. Clone este repositório.
+3. Instale as dependências necessárias.
+
